@@ -7,7 +7,7 @@ function Footer() {
             flexDirection: 'column', alignItems: 'center',
             justifyContent: 'center', fontSize:'1rem'
         }}>
-           <p> Made with <span aria-label="necro" role="img">👾</span> by HRT <span aria-label="green" role="img">💚</span> </p>
+           <p><span aria-label="necro" role="img"></span> <span aria-label="green" role="img">💚</span> </p>
         </div>
     )
 }
